@@ -1,18 +1,18 @@
-  # Hi there, I'm Krystian! 👋
+  # Hi there, I'm Krystian! 
 
 ### Master of Engineering | Focus on Cybersecurity & Network Administration
 I am a **Master of Science in Engineering (M.Sc. Eng.)** graduate specializing in Technical and Information Education. [cite_start]My professional focus is on **Defensive Security** and **Infrastructure Administration**, with a strong emphasis on applying academic research to practical, secure IT solutions.
 
 ---
 
-### 🎓 Academic Background
+### Academic Background
 * **Degree:** Master of Science in Engineering in Technical and Information Education (Lublin University of Technology, 2025).
 * **Master's Thesis:** "Application of the MITRE ATT&CK Matrix in Modeling and Assessing the Effectiveness of Defense Strategies Against Cyber Attack Techniques".
 ***Engineering Thesis:** Development of a web-based "Mechanical Strength Testing & Analysis App" for automated engineering data processing.
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 #### 🛡️ [MITRE ATT&CK: Modeling and Evaluation](https://github.com/KrystianLeck/MITRE-Attack-Lab-Project)
 The technical core of my Master's Thesis, evaluating endpoint detection and mitigation strategies:
