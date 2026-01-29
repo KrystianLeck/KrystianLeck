@@ -8,7 +8,7 @@ I am a **Master of Science in Engineering (M.Sc. Eng.)** graduate specializing i
 ### 🎓 Academic Background
 * **Degree:** Master of Science in Engineering in Technical and Information Education (Lublin University of Technology, 2025).
 * **Master's Thesis:** "Application of the MITRE ATT&CK Matrix in Modeling and Assessing the Effectiveness of Defense Strategies Against Cyber Attack Techniques".
-***Engineering Thesis:** Development of a web-based "Mechanical Strength Testing & Analysis App" for automated engineering data processing[cite: 4].
+***Engineering Thesis:** Development of a web-based "Mechanical Strength Testing & Analysis App" for automated engineering data processing.
 
 ---
 
@@ -20,17 +20,17 @@ The technical core of my Master's Thesis, evaluating endpoint detection and miti
 * **Active Defense:** Configured automated mitygation via Event-Triggered Tasks and implemented kernel-level hardening (RunAsPPL) to protect LSASS (T1003.001).
 
 #### 🏢 [Secure Active Directory Infrastructure Lab](https://github.com/KrystianLeck/Secure-Active-Directory-Infrastructure)
-A Windows Server 2022 laboratory environment focused on Identity and Access Management (IAM)[cite: 2]:
+A Windows Server 2022 laboratory environment focused on Identity and Access Management (IAM):
 * **Hardening:** Deployed strict **GPO policies** to restrict administrative tools (CMD) and enforce account lockout protection.
-* **RBAC:** Configured logical OU structures and granular **NTFS permissions** based on the Principle of Least Privilege[cite: 2].
+* **RBAC:** Configured logical OU structures and granular **NTFS permissions** based on the Principle of Least Privilege.
 
 #### 🐧 [Linux Security Auditor](https://github.com/KrystianLeck/Linux-Security-Auditor)
-A **Bash-based automation tool** for baseline security audits on Debian/Ubuntu systems[cite: 3]:
-* **Features:** Audits UFW status, analyzes listening network ports, and scans for credential vulnerabilities in `/etc/shadow`[cite: 3].
+A **Bash-based automation tool** for baseline security audits on Debian/Ubuntu systems:
+* **Features:** Audits UFW status, analyzes listening network ports, and scans for credential vulnerabilities in `/etc/shadow`.
 
 #### 🏗️ [Mechanical Strength Testing App](https://github.com/KrystianLeck/Mechanical-Strength-Testing-App)
-A specialized engineering application developed for my Engineering Thesis[cite: 4]:
-* **Functionality:** Automates strength of materials calculations and generates professional laboratory reports in **PDF format** using JavaScript[cite: 4].
+A specialized engineering application developed for my Engineering Thesis:
+* **Functionality:** Automates strength of materials calculations and generates professional laboratory reports in **PDF format** using JavaScript.
 
 ---
 
