@@ -16,10 +16,10 @@ I am a **Master of Science in Engineering (M.Sc. Eng.)** graduate specializing i
 
 #### 🛡️ [MITRE ATT&CK: Modeling and Evaluation](https://github.com/KrystianLeck/MITRE-Attack-Lab-Project)
 This project is the technical implementation of a Master's Thesis, focusing on the practical application of the MITRE ATT&CK framework to evaluate and enhance defensive systems. It involved the development of an isolated laboratory environment to simulate real-world adversarial scenarios and verify the effectiveness of multi-layered security controls.
-* **Project Goal: To assess the detection and mitigation capabilities of Windows-based infrastructures against specific adversarial techniques identified in the MITRE ATT&CK framework.
-* **Simulation & Analysis: Utilizing the Atomic Red Team framework to execute controlled attack scenarios, including process injection, credential dumping (LSASS), and unauthorized network reconnaissance.
-* **Advanced Detection & Visibility: Demonstrating that high-fidelity telemetry through expert configuration of native system tools (such as Sysmon and PowerShell Script Block Logging) enables effective incident identification without commercial SIEM solutions.
-* **Active Defense & Hardening: Implementing "Defense in Depth" strategies by automating real-time incident responses and enhancing overall system resilience through kernel-level hardening and behavioral prevention.
+* **Project Goal:** To assess the detection and mitigation capabilities of Windows-based infrastructures against specific adversarial techniques identified in the MITRE ATT&CK framework.
+* **Simulation & Analysis:** Utilizing the Atomic Red Team framework to execute controlled attack scenarios, including process injection, credential dumping (LSASS), and unauthorized network reconnaissance.
+* **Advanced Detection & Visibility:** Demonstrating that high-fidelity telemetry through expert configuration of native system tools (such as Sysmon and PowerShell Script Block Logging) enables effective incident identification without commercial SIEM solutions.
+* **Active Defense & Hardening:** Implementing "Defense in Depth" strategies by automating real-time incident responses and enhancing overall system resilience through kernel-level hardening and behavioral prevention.
 
 #### 🏢 [Secure Active Directory Infrastructure Lab](https://github.com/KrystianLeck/Secure-Active-Directory-Infrastructure)
 A Windows Server 2022 laboratory environment focused on Identity and Access Management (IAM):
