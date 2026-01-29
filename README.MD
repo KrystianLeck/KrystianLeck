@@ -6,9 +6,9 @@
 ---
 
 ### 🎓 Academic Background
-* [cite_start]**Degree:** Master of Science in Engineering in Technical and Information Education (Lublin University of Technology, 2025).
-* [cite_start]**Master's Thesis:** "Application of the MITRE ATT&CK Matrix in Modeling and Assessing the Effectiveness of Defense Strategies Against Cyber Attack Techniques".
-* [cite_start]**Engineering Thesis:** Development of a web-based "Mechanical Strength Testing & Analysis App" for automated engineering data processing[cite: 4].
+* **Degree:** Master of Science in Engineering in Technical and Information Education (Lublin University of Technology, 2025).
+* **Master's Thesis:** "Application of the MITRE ATT&CK Matrix in Modeling and Assessing the Effectiveness of Defense Strategies Against Cyber Attack Techniques".
+***Engineering Thesis:** Development of a web-based "Mechanical Strength Testing & Analysis App" for automated engineering data processing[cite: 4].
 
 ---
 
