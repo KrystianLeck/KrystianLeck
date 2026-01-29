@@ -15,22 +15,22 @@
 ### 🚀 Featured Projects
 
 #### 🛡️ [MITRE ATT&CK: Modeling and Evaluation](https://github.com/KrystianLeck/MITRE-ATT-CK-Modeling-and-Evaluation)
-[cite_start]The technical core of my Master's Thesis, evaluating endpoint detection and mitigation strategies:
-* [cite_start]**Detection:** Implemented advanced monitoring using **Sysmon** and **PowerShell Script Block Logging (ID 4104)** to identify techniques such as Process Injection (T1055).
-* [cite_start]**Active Defense:** Configured automated mitygation via Event-Triggered Tasks and implemented kernel-level hardening (RunAsPPL) to protect LSASS (T1003.001).
+The technical core of my Master's Thesis, evaluating endpoint detection and mitigation strategies:
+* **Detection:** Implemented advanced monitoring using **Sysmon** and **PowerShell Script Block Logging (ID 4104)** to identify techniques such as Process Injection (T1055).
+* **Active Defense:** Configured automated mitygation via Event-Triggered Tasks and implemented kernel-level hardening (RunAsPPL) to protect LSASS (T1003.001).
 
 #### 🏢 [Secure Active Directory Infrastructure Lab](https://github.com/KrystianLeck/Secure-Active-Directory-Infrastructure)
-[cite_start]A Windows Server 2022 laboratory environment focused on Identity and Access Management (IAM)[cite: 2]:
-* [cite_start]**Hardening:** Deployed strict **GPO policies** to restrict administrative tools (CMD) and enforce account lockout protection.
-* [cite_start]**RBAC:** Configured logical OU structures and granular **NTFS permissions** based on the Principle of Least Privilege[cite: 2].
+A Windows Server 2022 laboratory environment focused on Identity and Access Management (IAM)[cite: 2]:
+* **Hardening:** Deployed strict **GPO policies** to restrict administrative tools (CMD) and enforce account lockout protection.
+* **RBAC:** Configured logical OU structures and granular **NTFS permissions** based on the Principle of Least Privilege[cite: 2].
 
 #### 🐧 [Linux Security Auditor](https://github.com/KrystianLeck/Linux-Security-Auditor)
-[cite_start]A **Bash-based automation tool** for baseline security audits on Debian/Ubuntu systems[cite: 3]:
-* [cite_start]**Features:** Audits UFW status, analyzes listening network ports, and scans for credential vulnerabilities in `/etc/shadow`[cite: 3].
+A **Bash-based automation tool** for baseline security audits on Debian/Ubuntu systems[cite: 3]:
+* **Features:** Audits UFW status, analyzes listening network ports, and scans for credential vulnerabilities in `/etc/shadow`[cite: 3].
 
 #### 🏗️ [Mechanical Strength Testing App](https://github.com/KrystianLeck/Mechanical-Strength-Testing-App)
-[cite_start]A specialized engineering application developed for my Engineering Thesis[cite: 4]:
-* [cite_start]**Functionality:** Automates strength of materials calculations and generates professional laboratory reports in **PDF format** using JavaScript[cite: 4].
+A specialized engineering application developed for my Engineering Thesis[cite: 4]:
+* **Functionality:** Automates strength of materials calculations and generates professional laboratory reports in **PDF format** using JavaScript[cite: 4].
 
 ---
 
