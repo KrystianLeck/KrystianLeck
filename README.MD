@@ -14,7 +14,7 @@ I am a **Master of Science in Engineering (M.Sc. Eng.)** graduate specializing i
 
 ### 🚀 Featured Projects
 
-#### 🛡️ [MITRE ATT&CK: Modeling and Evaluation](https://github.com/KrystianLeck/MITRE-ATT-CK-Modeling-and-Evaluation)
+#### 🛡️ [MITRE ATT&CK: Modeling and Evaluation](https://github.com/KrystianLeck/MITRE-Attack-Lab-Project)
 The technical core of my Master's Thesis, evaluating endpoint detection and mitigation strategies:
 * **Detection:** Implemented advanced monitoring using **Sysmon** and **PowerShell Script Block Logging (ID 4104)** to identify techniques such as Process Injection (T1055).
 * **Active Defense:** Configured automated mitygation via Event-Triggered Tasks and implemented kernel-level hardening (RunAsPPL) to protect LSASS (T1003.001).
