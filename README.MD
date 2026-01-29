@@ -21,18 +21,21 @@ This project is the technical implementation of a Master's Thesis, focusing on t
 * **Advanced Detection & Visibility:** Demonstrating that high-fidelity telemetry through expert configuration of native system tools (such as Sysmon and PowerShell Script Block Logging) enables effective incident identification without commercial SIEM solutions.
 * **Active Defense & Hardening:** Implementing "Defense in Depth" strategies by automating real-time incident responses and enhancing overall system resilience through kernel-level hardening and behavioral prevention.
 
-#### 🏢 [Secure Active Directory Infrastructure Lab](https://github.com/KrystianLeck/Secure-Active-Directory-Infrastructure)
-A Windows Server 2022 laboratory environment focused on Identity and Access Management (IAM):
-* **Hardening:** Deployed strict **GPO policies** to restrict administrative tools (CMD) and enforce account lockout protection.
-* **RBAC:** Configured logical OU structures and granular **NTFS permissions** based on the Principle of Least Privilege.
+#### 🏢 [Secure Active Directory Infrastructure Lab](https://github.com/KrystianLeck/Secure-Active-Directory-Lab)
+A comprehensive deployment of a corporate IT infrastructure designed to demonstrate modern administrative practices and system hardening. This project focuses on the integration of identity management and network security within a virtualized domain environment.
+* **Infrastructure Design:** Deployment of a Windows Server 2022 Domain Controller with AD DS and DNS services in an isolated virtual network.
+* **IAM & RBAC:** Implementation of a logical Organizational Unit (OU) structure and Role-Based Access Control (RBAC), ensuring users follow the Principle of Least Privilege.
+* **Security Hardening:** Strengthening the domain environment through Group Policy Objects (GPO), including administrative tool restrictions and account lockout policies to prevent unauthorized access.
+* **Data Integrity:** Configuration of secure file services using granular NTFS permissions and inheritance management to protect sensitive organizational assets.
 
 #### 🐧 [Linux Security Auditor](https://github.com/KrystianLeck/Linux-Security-Auditor)
-A **Bash-based automation tool** for baseline security audits on Debian/Ubuntu systems:
-* **Features:** Audits UFW status, analyzes listening network ports, and scans for credential vulnerabilities in `/etc/shadow`.
+Bash automation tool for rapid baseline security auditing on Debian/Ubuntu systems.
+* **Audit:** Verifies firewall (UFW) status and network service exposure.
+* **Hardening:** Scans for credential vulnerabilities and account misconfigurations.
 
 #### 🏗️ [Mechanical Strength Testing App](https://github.com/KrystianLeck/Mechanical-Strength-Testing-App)
 A specialized engineering application developed for my Engineering Thesis:
-* **Functionality:** Automates strength of materials calculations and generates professional laboratory reports in **PDF format** using JavaScript.
+* **Functionality:** Automates strength of materials calculations and generates professional reports in **PDF format** using JavaScript.
 
 ---
 
