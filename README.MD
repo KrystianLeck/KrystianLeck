@@ -1,6 +1,6 @@
   # Hi there, I'm Krystian! 👋
 
-### 🛡️ Master of Engineering | Focus on Cybersecurity & Network Administration
+### Master of Engineering | Focus on Cybersecurity & Network Administration
 I am a **Master of Science in Engineering (M.Sc. Eng.)** graduate specializing in Technical and Information Education. [cite_start]My professional focus is on **Defensive Security** and **Infrastructure Administration**, with a strong emphasis on applying academic research to practical, secure IT solutions.
 
 ---
