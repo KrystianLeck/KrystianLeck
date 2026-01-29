@@ -40,6 +40,10 @@ A specialized engineering application developed for my Engineering Thesis:
 ---
 
 ### ⚙️ Tech Stack & Skills
+* **Security & Monitoring:** MITRE ATT&CK Framework, IBM QRadar (SIEM), Malware Analysis, Sysmon, Wireshark, Nmap.
+* **Systems & Networks:** Windows Server (AD DS, GPO), Linux (Ubuntu/Debian), LAN/WAN Diagnostics, DHCP/DNS, VirtualBox.
+* **Tools & Scripting:** PowerShell, Bash, Atomic Red Team, GitHub, JavaScript.
+
 <p align="left">
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -51,5 +55,15 @@ A specialized engineering application developed for my Engineering Thesis:
 
 ---
 
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krystian-%C5%82%C4%99cki-2a9062285/)
+### 🏆 Professional Certifications
+* **IBM Cybersecurity Student Subject Matter Expert**
+* **IBM Security Operations Center in Practice**
+* **CISCO Network Administrator** (VCC Foundation)
+* **Career Essentials in GitHub** Professional Certificate
+* **Cloud Computing Fundamentals** & **IBM AI Fundamentals**
+
+---
+
+### 🌍 Languages
+* **Polish:** Native
+* **English:** Upper-Intermediate (B2)
