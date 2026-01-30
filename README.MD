@@ -2,7 +2,7 @@
 
 ## Master of Engineering | Focus on Cybersecurity & Network Administration
 
-### I am a **Master of Science in Engineering (M.Sc. Eng.)** graduate in Technical and Information Education from Lublin University of Technology (2025). I focus on **Defensive Security** and **Infrastructure Administration**. 
+### I am a **Master of Science in Engineering (M.Sc. Eng.)** graduate in Technical and Information Education from Lublin University of Technology (2025). Interested in Defensive Security, system hardening, monitoring, and IT infrastructure administration.
 ---
 
 ### Academic Background
