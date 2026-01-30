@@ -1,8 +1,8 @@
-  # Hi there, I'm Krystian! 
+# Hi there, I'm Krystian! 
 
 ### Master of Engineering | Focus on Cybersecurity & Network Administration
 
-I am a **Master of Science in Engineering (M.Sc. Eng.)** graduate specializing in Technical and Information Education. My professional focus is on **Defensive Security** and **Infrastructure Administration**, with a strong emphasis on applying academic research to practical, secure IT solutions.
+I am a **Master of Science in Engineering (M.Sc. Eng.)** graduate in Technical and Information Education from Lublin University of Technology (2025). I focus on **Defensive Security** and **Infrastructure Administration**. 
 ---
 
 ### Academic Background
